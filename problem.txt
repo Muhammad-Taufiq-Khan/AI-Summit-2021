@@ -1,0 +1,16 @@
+Tasks:
+1. develop a model to predict the rental plan each customer will activate in the following month. (PKG1 to PKG8)
+2. Evaluation matrix: Macro F1-Score
+
+
+
+Submission Format
+1. every primary identifier in the test dataset submission files should contain two columns: primary_identifier and next_month_plan
+2. submission file should be a CSV file.
+
+Dataset Description:
+Mistype: district_name (Unknown)
+Exponential: dusage_min,  vusage_onnet_sum
+
+Error:
+
